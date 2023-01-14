@@ -5,6 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   
 
+
+
+  <properties>
+  <maven.compiler.sources>17</maven.compiler.sources>
+  <maven.compiler.target>17</maven.compiler.target>
+  </properties>
   
   
   <dependencies>
