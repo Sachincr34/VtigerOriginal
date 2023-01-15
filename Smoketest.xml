@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="vtigerOrganizationandContacts.CreateOrgWithContacts"/>
+  
       <class name="vtigerOrganizationandContacts.CreateOrgAndContactsTest"/>
       <class name="vtiger.Practise.CreateOrganization"/>
     </classes>
