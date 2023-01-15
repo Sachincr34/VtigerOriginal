@@ -75,7 +75,7 @@
  
   </dependencies>
   
-  
+
   <build>
   <plugins>
       <plugin>
@@ -92,7 +92,9 @@
 </build>
 
 <!-- profiling s used to execute the specific suite with the help of unique id-->
-<profiles>
+ <profiles> 
+ 
+ 
 <profile>
 <id>Smoke</id>
 
@@ -111,6 +113,8 @@
 </plugins>
 </build>
 </profile>
+
+
 </profiles>
   
 </project>
